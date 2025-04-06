@@ -17,11 +17,11 @@
       "hash": "7c0f199fe0d3fc528024488ccd671e6c7b27745b"
     },
     "com.mhama.zenoh-plugin-unity": {
-      "version": "https://github.com/mhama/ZenohPluginTry20250329.git?path=Assets/ZenohPackage#mhama/20250330-package",
+      "version": "https://github.com/mhama/ZenohPluginTry20250329.git?path=Assets/ZenohPackage",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "9a3475aaee06e625ac6891b70c652707ae3052c8"
+      "hash": "2a436b0934b6a85fcdaa19baf50a6b302928cbe1"
     },
     "com.unity.collab-proxy": {
       "version": "2.7.1",
